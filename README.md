@@ -1,5 +1,6 @@
 ## Hi 👋 I'm Prithvi Elancherran
 
+![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 <!--
 **PrithviElancherran/PrithviElancherran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
