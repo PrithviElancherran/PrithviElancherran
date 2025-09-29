@@ -62,6 +62,6 @@ Visit my [Portfolio Website](https://prithvielancherran.github.io/portfolio/) fo
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamnihc04&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrithviElancherran&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="yamnihc04" /></p><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrithviElancherran&theme=dark&hide_border=false)<br/>
