@@ -5,7 +5,7 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually w
 
 ![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 - 🎓 Master's in AI at San Jose State University (Computer Engineering Department)
 - 📫 Always up for a chat: prithvielancherran@gmail.com
@@ -62,4 +62,4 @@ Visit my [Portfolio Website](https://prithvielancherran.github.io/portfolio/) fo
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrithviElancherran&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrithviElancherran&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
