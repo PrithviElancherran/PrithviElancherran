@@ -7,7 +7,7 @@
     </a>
 </h4>
 
-<p style="margin: 0;">
+<p>
     <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" align="left" style="vertical-align:middle;" />
     <span style="display: block; text-align: center;">
       <a href="https://prithvielancherran.github.io/portfolio/">
