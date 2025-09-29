@@ -9,7 +9,10 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into working systems.
 - 💡 Bridging AI research, ML pipelines, and distributed systems to deliver scalable, production-ready AI solutions
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: prithvielancherran@gmail.com
-- ⚡ Fun fact:
--- I once improved accuracy by 0.1% and acted like I cured cancer
+- 📫 Always up for a chat: prithvielancherran@gmail.com
+
+⚡ Fun facts about me:
+- I once improved accuracy by 0.1% and acted like I cured cancer
+- I have trust issues because of early stopping.  
+- My loss curves drop faster than my sleep schedule — and that’s my favorite metric.  
 
