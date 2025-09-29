@@ -1,7 +1,11 @@
-## Hi 👋 I'm Prithvi Elancherran
-🚀 **AI/ML/DL Engineer | Researcher | Builder**
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran</h1>
+<h3 align="center">🚀 AI/ML/DL Engineer | Researcher | Builder</h3>
+<h3 alight="center">Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work.</h3>
+<h3 align="center">Visit my Portfolio Website Here.</h3>
+<h4 align="center">https://prithvielancherran.github.io/portfolio/</h4>
+Visit my [Portfolio Website](https://prithvielancherran.github.io/portfolio/)
 
-Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work.
+<br>
 
 ![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
@@ -14,8 +18,6 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually w
 - I once improved accuracy by 0.1% and acted like I cured cancer
 - I have trust issues because of early stopping  
 - My loss curves drop faster than my sleep schedule — and that’s my favorite metric
-
-Visit my [Portfolio Website](https://prithvielancherran.github.io/portfolio/) for more details.
 
 ## 🤝 Connect with me:
 <a href="https://linkedin.com/in/prithvielancherran">
