@@ -17,3 +17,6 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually w
 
 Visit my [Portfolio Website](https://prithvielancherran.github.io/portfolio/) for more details.
 
+## 🌐 Socials:
+[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/prithvielancherran)
+
