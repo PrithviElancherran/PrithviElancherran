@@ -10,5 +10,6 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into working systems.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: prithvielancherran@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+      - I once improved accuracy by 0.01% and acted like I cured cancer."
 
