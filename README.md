@@ -1,25 +1,12 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran </h2>
 <h3 align="center">🚀 AI/ML/DL Engineer | Researcher | Builder</h3>
 <h4 align="center">Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work</h4>
-<img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle;">
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <!-- Badge pinned left -->
-  <span style="flex: 1; text-align: left;">
-    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle;">
-  </span>
-  
-  <!-- Centered link -->
-  <span style="flex: 1; text-align: center;">
-    <h4 style="margin:0;">
-      <a href="https://prithvielancherran.github.io/portfolio/">
-        Visit my Portfolio Website Here
-      </a>
-    </h4>
-  </span>
-  
-  <!-- Empty right side for balance -->
-  <span style="flex: 1;"></span>
-</div>
+<h4 align="center">
+    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="margin-left:100px; vertical-align:middle;" />
+    <a href="https://prithvielancherran.github.io/portfolio/">
+      Visit my Portfolio Website Here
+    </a>
+</h4>
 
 <br>
 
