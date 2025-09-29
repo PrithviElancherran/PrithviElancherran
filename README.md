@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML/DL Engineer | Researcher | Builder</h3>
 <h4 align="center">Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work</h4>
 <h4 align="center">
-    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="margin-left:100px; vertical-align:middle;" />
+    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="margin-right:100px; vertical-align:middle;" />
     <a href="https://prithvielancherran.github.io/portfolio/">
       Visit my Portfolio Website Here
     </a>
