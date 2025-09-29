@@ -1,9 +1,8 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran
-<img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="margin-left:10px; vertical-align:middle;" /></h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran/></h2>
 <h3 align="center">🚀 AI/ML/DL Engineer | Researcher | Builder</h3>
 <h4 align="center">Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work</h4>
 <h4 align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle;margin-right:10px;">
+  <img align="left" src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle;margin-right:10px;">
   <a href="https://prithvielancherran.github.io/portfolio/" target="blank">
         Visit my Portfolio Website Here
   </a>
