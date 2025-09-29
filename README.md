@@ -1,13 +1,15 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran </h2>
 <h3 align="center">🚀 AI/ML/DL Engineer | Researcher | Builder</h3>
 <h4 align="center">Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work</h4>
-<h4 style="display: flex; justify-content: center; align-items: center; position: relative;">
+<h4 align="center" style="position: relative;">
     <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" 
          alt="Profile views" 
-         style="position: absolute; left: 0;" />
-    <a href="https://prithvielancherran.github.io/portfolio/">
-        Visit my Portfolio Website Here
-    </a>
+         style="position: absolute; left: 0; top: 50%; transform: translateY(-50%);" />
+    <span style="display: inline-block;">
+        <a href="https://prithvielancherran.github.io/portfolio/">
+            Visit my Portfolio Website Here
+        </a>
+    </span>
 </h4>
 
 <br>
