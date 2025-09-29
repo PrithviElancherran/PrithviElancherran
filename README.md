@@ -10,12 +10,13 @@
 <div>
     <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" align="left" style="vertical-align:middle;" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <h4>
     <a href="https://prithvielancherran.github.io/portfolio/">
       Visit my Portfolio Website Here
     </a>
+    </h4>
 </div>
 
-![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
 <p>
     <img align=src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle">
