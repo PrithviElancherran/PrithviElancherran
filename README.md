@@ -16,5 +16,7 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually w
 ⚡ **Fun facts about me:**
 - I once improved accuracy by 0.1% and acted like I cured cancer
 - I have trust issues because of early stopping.  
-- My loss curves drop faster than my sleep schedule — and that’s my favorite metric.  
+- My loss curves drop faster than my sleep schedule — and that’s my favorite metric.
+
+Visit my [Portfolio Website](https://prithvielancherran.github.io/portfolio/) for more details.
 
