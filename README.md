@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Prithvi Elancherran
-🚀 AI/ML/DL Engineer | Researcher | Builder
+🚀 **AI/ML/DL Engineer | Researcher | Builder**
 
 Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work
 
