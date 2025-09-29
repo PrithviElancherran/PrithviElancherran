@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" 
          alt="Profile views" 
          style="position: absolute; left: 0; top: 50%; transform: translateY(-50%);" />
-    <a href="https://prithvielancherran.github.io/portfolio/" style="font-size: 18px; font-weight: bold;">
+    <a align="center" href="https://prithvielancherran.github.io/portfolio/" style="font-size: 18px; font-weight: bold;">
         Visit my Portfolio Website Here
     </a>
 </div>
