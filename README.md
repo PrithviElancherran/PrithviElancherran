@@ -7,10 +7,19 @@
     </a>
 </h4>
 
+<p style="margin: 0;">
+    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" align="left" style="vertical-align:middle;" />
+    <span style="display: block; text-align: center;">
+      <a href="https://prithvielancherran.github.io/portfolio/">
+        Visit my Portfolio Website Here
+      </a>
+    </span>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
 <p>
-    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle">
+    <img align=src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle">
     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 - 🎓 Master's in AI at San Jose State University (Computer Engineering Department)
