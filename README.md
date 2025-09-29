@@ -21,3 +21,6 @@ Visit my [Portfolio Website](https://prithvielancherran.github.io/portfolio/) fo
 <a href="https://linkedin.com/in/prithvielancherran">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+<a href="https://www.instagram.com/prithvi_elancherran">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a> 
