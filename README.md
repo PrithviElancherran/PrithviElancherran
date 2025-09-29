@@ -9,7 +9,7 @@
 
 <div align="center">
     <img align="left" src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="vertical-align:middle;" />
-    <a href="https://prithvielancherran.github.io/portfolio/">
+    <a href="https://prithvielancherran.github.io/portfolio/" style="margin-left: -50px;">
       Visit my Portfolio Website Here
     </a>
 </div>
