@@ -2,7 +2,7 @@
 <h2 align="center">🚀 AI/ML/DL Engineer | Researcher | Builder</h2>
 <h3 align="center">Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually work</h4>
 <h4 align="center">
-  <a href="https://prithvielancherran.github.io/portfolio/" target="_blank">
+  <a href="https://prithvielancherran.github.io/portfolio/" target="blank">
     Visit my Portfolio Website Here
   </a>
 </h4>
