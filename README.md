@@ -7,14 +7,12 @@
     </a>
 </h4>
 
-<p>
-    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" align="left" style="vertical-align:middle;" />
-    <span style="display: block; text-align: center;">
-      <a href="https://prithvielancherran.github.io/portfolio/">
-        Visit my Portfolio Website Here
-      </a>
-    </span>
-</p>
+<div align="center">
+    <img align="left" src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="vertical-align:middle;" />
+    <a href="https://prithvielancherran.github.io/portfolio/">
+      Visit my Portfolio Website Here
+    </a>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
