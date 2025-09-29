@@ -5,8 +5,6 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually w
 
 ![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
-💼 **Actively seeking full-time opportunities** in AI/ML/DL engineering, applied research, and intelligent systems.
-
 - 🎓 Master's in AI at San Jose State University (Computer Engineering Department)
 - 📫 Always up for a chat: prithvielancherran@gmail.com
 
