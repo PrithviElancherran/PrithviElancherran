@@ -1,17 +1,4 @@
-<table width="100%">
-  <tr>
-    <!-- Left cell: badge -->
-    <td align="left" width="1%">
-      <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22">
-    </td>
-    <!-- Right cell: header text, centered -->
-    <td align="center" width="99%">
-      <h2 style="margin:0">
-        Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">, I'm Prithvi Elancherran
-      </h2>
-    </td>
-  </tr>
-</table>
+<h2 align="center" style="margin:0"> <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle;margin-right:10px;"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">, I'm Prithvi Elancherran </h2>
 
 
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran
