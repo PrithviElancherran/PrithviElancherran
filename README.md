@@ -4,13 +4,11 @@
 <h4 align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle;margin-right:10px;">
   <a href="https://prithvielancherran.github.io/portfolio/" target="blank">
-        Visit my Portfolio Website Here
+  Visit my Portfolio Website Here
   </a>
 </h4>
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
