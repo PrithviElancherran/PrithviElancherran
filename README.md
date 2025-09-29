@@ -1,11 +1,7 @@
-<div align="center">
-  <p align="left" style="margin:0;">
-    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" />
-  </p>
-  <h2>
-    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran
-  </h2>
-</div>
+h2 align="left" style="margin:0">
+  <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" height="22" style="vertical-align:middle;margin-right:10px;">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">, I'm Prithvi Elancherran
+</h2>
 
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Prithvi Elancherran
 <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="margin-left:10px; vertical-align:middle;" /></h2>
