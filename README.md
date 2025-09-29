@@ -5,6 +5,8 @@ Fueled by curiosity and coffee ☕, I turn AI ideas into systems that actually w
 
 ![](https://komarev.com/ghpvc/?username=PrithviElancherran)
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 - 🎓 Master's in AI at San Jose State University (Computer Engineering Department)
 - 📫 Always up for a chat: prithvielancherran@gmail.com
 
