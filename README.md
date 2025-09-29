@@ -8,8 +8,9 @@
 </h4>
 
 <div align="center">
-    <img align="left" src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" style="vertical-align:middle;" />
-    <a href="https://prithvielancherran.github.io/portfolio/" style="display: inline-block; transform: translateX(-50px);">
+    <img src="https://komarev.com/ghpvc/?username=PrithviElancherran" alt="Profile views" align="left" style="vertical-align:middle;" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://prithvielancherran.github.io/portfolio/">
       Visit my Portfolio Website Here
     </a>
 </div>
