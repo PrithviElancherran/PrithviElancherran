@@ -18,7 +18,7 @@
 - 📫 Always up for a chat: prithvielancherran@gmail.com
 
 ⚡ **Fun facts about me:**
-- I once improved accuracy by 0.1% and acted like I cured cancer
+- I once improved accuracy by 0.01% and acted like I cured cancer
 - I have trust issues because of early stopping  
 - My loss curves drop faster than my sleep schedule — and that’s my favorite metric
 
